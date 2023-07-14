@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EMI_Calculator_app</string>
+    <string name="open">Navigation open</string>
+    <string name="close">Navigation close</string>
+</resources>

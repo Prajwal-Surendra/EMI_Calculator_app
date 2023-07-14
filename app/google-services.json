@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "820331290684",
+    "project_id": "car-emi-calculator-app",
+    "storage_bucket": "car-emi-calculator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820331290684:android:cafdef007f72f6f6b7e339",
+        "android_client_info": {
+          "package_name": "com.example.emi_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820331290684-ttlvbrissqdi8sng0aahp1tl4v1bvjd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv95EvjTWGz5K_vR-uPOr91PU_wl8isxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820331290684-ttlvbrissqdi8sng0aahp1tl4v1bvjd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820331290684:android:75d8e36e2457fc17b7e339",
+        "android_client_info": {
+          "package_name": "com.example.emi_calculator_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820331290684-ttlvbrissqdi8sng0aahp1tl4v1bvjd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv95EvjTWGz5K_vR-uPOr91PU_wl8isxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820331290684-ttlvbrissqdi8sng0aahp1tl4v1bvjd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
